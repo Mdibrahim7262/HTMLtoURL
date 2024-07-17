@@ -1,0 +1,1613 @@
+<div class="container">
+        <!-- Header -->
+        <div class="header">100% FIXED DRAW (X) MATCH</div>
+<div class="container">
+        <!-- Header -->
+        <div class="header"></tr>
+</table>
+Contact App Owner: <a href="https://t.me/vVIP_Team_Leader ">Tap Here✅</a></p></div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+            -webkit-user-select: none; /* Disable text selection on webkit browsers */
+            -moz-user-select: none; /* Disable text selection on Firefox */
+            -ms-user-select: none; /* Disable text selection on Internet Explorer */
+            user-select: none; /* Disable text selection on all browsers */
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+
+        document.addEventListener('contextmenu', event => event.preventDefault()); // Disable right-click context menu
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">16.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td class="blur-text"><b> UEFA C. L
+</b></td>
+                    <td class="blur-text"><b> 
+ Crusaders 🆚 Caernarfon </b></td>
+                    <td class="blur-text"><b>FT CS: 2-1</b></td>
+                    <td class="blur-text"><b>9.00</b></td>
+                    <td class="outcome-unknown"><b>...</b></td>
+                </tr>
+                <tr>
+                    <td class="blur-text"><b> Finland K. </b></td>
+                    <td class="blur-text"><b> Inter Turku 2 🆚 EBK </b></td>
+                   <td class="blur-text"><b>FT CS 3-1</b></td>
+                    <td class="blur-text"><b>12.00</b></td>
+                    <td class="outcome-unknown"><b>...<b></td>
+                </tr>
+                <tr>
+                    <td colspan="3" class="blur-text"><b>Total Odds</b></td>
+                    <td class="blur-text"><b>108.00</b></td>
+                    <td class="outcome-unknown"><b>.... </b></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html> 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">15.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>UEFA (W)</td>
+                    <td>Portugal (w) 🆚 Malta (w)</td>
+                    <td>FT CS 3-1</td>
+                    <td>05.80</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td>UEFA (W)</td></td>
+                    <td>Slovenia (w) 🆚 North Macedonia (w)  </td>
+                    <td>FT CS 4-0</td>
+                    <td>8.00</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>72.00</td>
+                    <td class="outcome-unknown">BOOM✔ </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">15.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Egypt Cup</td>
+                    <td>Pyramids 🆚 Al Nasr</td>
+                    <td>FT CS 4-0</td>
+                    <td>12.00</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td>Romania 1</td></td>
+                    <td>Petrolul 🆚 Buzau </td>
+                    <td>FT CS 0-0</td>
+                    <td>6.00</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>72.00</td>
+                    <td class="outcome-unknown">BOOM✔ </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">14.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Argentina</td>
+                    <td>Atletico Mitre 🆚 D. Unidos </td>
+                    <td>FT CS 1-0</td>
+                    <td>4.50</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td>UEFA</td></td>
+                    <td>Spain 🆚 England </td>
+                    <td>FT CS 2-1</td>
+                    <td>9.50</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>43.75</td>
+                    <td class="outcome-unknown">BOOM✔ </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">13.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Argentina</td>
+                    <td>Ituzaingo 🆚 Real Pilar </td>
+                    <td>HT/FT: X/X</td>
+                    <td>3.30</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td>Scotland</td></td>
+                    <td>Stranraer 🆚 Ross Country  </td>
+                    <td>FT CS 1-3</td>
+                    <td>8.50</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>28.05</td>
+                    <td class="outcome-unknown">BOOM✔ </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">10.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>UEFA</td>
+                    <td>Dinamo Misk 🆚 Pyunik </td>
+                    <td>FT CS 2-0</td>
+                    <td>12.00</td>
+                    <td class="outcome-unknown">❌</td>
+                </tr>
+                <tr>
+                    <td>UEFA  </td></td>
+                    <td>Netherlands  🆚 England </td>
+                    <td>FT CS 1-1</td>
+                    <td>5.50</td>
+                    <td class="outcome-unknown">❌</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>66.00</td>
+                    <td class="outcome-unknown">Bad Luck❌</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">09.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>UEFA</td>
+                    <td>New Saints 🆚 Decic </td>
+                    <td>HT/FT: 1/1</td>
+                    <td>2.20</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td> Ecuador </td></td>
+                    <td> San Antonio 🆚 Vargas </td>
+                    <td>FT-X </td>
+                    <td>3.10</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>6.82</td>
+                    <td class="outcome-unknown">BOOM✔ </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">08.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Egypt</td>
+                    <td>Al Ittihad 🆚 Pyramids </td>
+                    <td>HT/FT X/2</td>
+                    <td>3.86</td>
+                    <td class="outcome-unknown">❌</td>
+                </tr>
+                <tr>
+                    <td>Argentina</td>
+                    <td> Rozario Central 🆚 Barracas Central</td>
+                    <td>HT/FT 2/X</td>
+                    <td>16.50</td>
+                    <td class="outcome-unknown">❌</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>63.69</td>
+                    <td class="outcome-unknown">Bad Luck❌</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">07.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Lithuania</td>
+                    <td>Suduva 🆚 Dainava Alytus</td>
+                    <td>FT DRAW</td>
+                    <td>3.00</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td>South Korea K1</td>
+                    <td> Hana Citizen 🆚 Hyundai Motors</td>
+                    <td>FT DRAW</td>
+                    <td>3.50</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>10.50</td>
+                    <td class="outcome-unknown">BOOM✔</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Make table text bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(4px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "4657") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">06.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>UEFA</td>
+                    <td>Netherlands 🆚 Turkey</td>
+                    <td>FT CS 2-1</td>
+                    <td>7.50</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td>UEFA</td>
+                    <td>England 🆚 Switzerland</td>
+                    <td>FT CS: 1-1</td>
+                    <td>6.50</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>48.75</td>
+                    <td class="outcome-unknown">BOOM✔</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        .matches {
+            background-color: #000000; /* Changed color */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: orange; /* Make header text orange */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">05.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Cosafa Cup</td>
+                    <td>Mozambique 🆚 Namibia</td>
+                    <td>FT Draw</td>
+                    <td>2.90</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td>UEFA</td>
+                    <td>Spain 🆚 Germany</td>
+                    <td>HT Draw</td>
+                    <td>1.80</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>5.22</td>
+                    <td class="outcome-unknown">BOOM✔</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0; /* Remove left side empty space */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Make header text bold */
+        }
+        .matches {
+            background-color: #000000; /* Changed color */
+            padding: 5px;
+            margin-bottom: 5px;
+            font-weight: bold; /* Make matches text bold */
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: orange; /* Make header text orange */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">04.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Egypt</td>
+                    <td>El Gaish 🆚 Al Ittihad</td>
+                    <td>FT Draw</td>
+                    <td>3.00</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td>BRAZIL A</td>
+                    <td>Fluminense 🆚 Sport Club Inter:</td>
+                    <td>HT Draw</td>
+                    <td>2.00</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>6.00</td>
+                    <td class="outcome-unknown">BOOM✔</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+            font-weight: bold; /* Ensure header text is bold */
+        }
+        .matches {
+            background-color: #000000; /* Changed color */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+            font-weight: bold; /* Ensure table text is bold */
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+            font-weight: bold; /* Ensure table cells text is bold */
+        }
+        .matches th {
+            color: orange; /* Make header text orange */
+            font-weight: bold; /* Ensure header text is bold */
+        }
+        .outcome-unknown {
+            color: green;
+            font-weight: bold; /* Ensure outcome-unknown text is bold */
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold; /* Ensure outcome-known text is bold */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">03.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Brazil A</td>
+                    <td>Cuiaba 🆚 Botafogo</td>
+                    <td>HT Draw</td>
+                    <td>2.00</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td>Brazil D</td>
+                    <td>Itabuna 🆚 Associacao</td>
+                    <td>FT Draw</td>
+                    <td>3.10</td>
+                    <td class="outcome-unknown">✔✔✔ </td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>6.20</td>
+                    <td class="outcome-unknown">BOOM✔</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        @font-face {
+            font-family: 'Es Setif';
+            src: url('path-to-es-setif-font-file.woff2') format('woff2'),
+                 url('path-to-es-setif-font-file.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: Blue; /* Set background color to blue */
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: green;
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">02.07.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td>Friendlies</td>
+                    <td>Rangers 🆚 Dunfermline A.</td>
+                    <td>HT Draw</td>
+                    <td>2.30</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td>Egypt</td>
+                    <td>Enppi 🆚 Arab Contractor</td>
+                    <td>HT Draw</td>
+                    <td>2.20</td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3">Total Odds</td>
+                    <td>5.06</td>
+                    <td class="outcome-unknown">BOOM✔</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
